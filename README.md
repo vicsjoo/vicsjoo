@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vicsjoo
-- 👀 I’m interested in arts and neural network
+- 👀 I’m interested in arts and neural networks
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on my own stuff
 - 📫 How to reach me ... don't please
