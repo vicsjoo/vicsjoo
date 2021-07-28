@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vicsjoo
-- 👀 I’m interested in arts and neural networks
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on my own stuff
+- 👀 I’m interested in arts, music, neural networks and much more
+- 🌱 I’m currently learning C++, altough C# is beautiful
+- 💞️ I’m looking to collaborate on C# projects
 - 📫 How to reach me ... don't please
 
 <!---
