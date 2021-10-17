@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vicsjoo
-- 👀 I’m interested in arts, music, neural networks and much more
+- 👀 I’m interested in arts, music, neural networks and much more (AI Art is very pog)
 - 🌱 I’m currently learning C++, altough C# is beautiful
 - 💞️ I’m looking to collaborate on C# projects
 - 📫 How to reach me ... don't please
