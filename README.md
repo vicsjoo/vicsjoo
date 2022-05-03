@@ -1,1 +1,1 @@
-I code for fun.
+Console.WriteLine("Hello World!");
