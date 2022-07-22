@@ -1,3 +1,2 @@
-Console.WriteLine("Hello Github! \n I code for fun.");
-
+Hobbyist coder.
 // Nothing to see here.
