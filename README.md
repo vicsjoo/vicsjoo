@@ -1,1 +1,1 @@
-Noob coder, random beginner stuff, bad code.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
