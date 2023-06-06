@@ -1,1 +1,1 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+The quick brown fox jumps over the lazy dog
